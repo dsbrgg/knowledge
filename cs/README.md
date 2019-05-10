@@ -9,3 +9,6 @@
 
 * Design Systems
   * https://programmingdesignsystems.com/introduction/
+
+* Compilers
+  * https://www3.nd.edu/~dthain/compilerbook/
