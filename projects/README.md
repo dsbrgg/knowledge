@@ -6,3 +6,6 @@
 
 * Emulator 101
   * http://emulator101.com/
+
+* Learn by building projects
+  * https://github.com/tuvtran/project-based-learning
