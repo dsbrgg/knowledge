@@ -12,3 +12,6 @@
 
 * Compilers
   * https://www3.nd.edu/~dthain/compilerbook/
+
+* Data Science
+  * github.com/andkret/Cookbook/blob/master/Data%20Engineering%20Cookbook.pdf
