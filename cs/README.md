@@ -15,3 +15,6 @@
 
 * Data Science
   * github.com/andkret/Cookbook/blob/master/Data%20Engineering%20Cookbook.pdf
+
+* Programming Language Foundations in Agda
+  * https://plfa.github.io/
