@@ -18,3 +18,9 @@
 
 * Programming Language Foundations in Agda
   * https://plfa.github.io/
+
+* What every programmer should know about memory
+  * https://www.akkadia.org/drepper/cpumemory.pdf
+
+* Is Parallel Programming Hard, And, If So, What Can You Do About It?
+ * https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html 
