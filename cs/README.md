@@ -24,3 +24,6 @@
 
 * Is Parallel Programming Hard, And, If So, What Can You Do About It?
  * https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html 
+
+* Implementing Heap in JS
+  * https://blog.bitsrc.io/implementing-heaps-in-javascript-c3fbf1cb2e65
