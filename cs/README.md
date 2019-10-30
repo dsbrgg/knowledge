@@ -27,3 +27,6 @@
 
 * Implementing Heap in JS
   * https://blog.bitsrc.io/implementing-heaps-in-javascript-c3fbf1cb2e65
+
+* Arcitura CS Patterns
+  * https://patterns.arcitura.com/
