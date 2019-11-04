@@ -3,3 +3,6 @@
 
 * Intuitive Math
   * https://intuitive-math.club/
+
+* Handbook of Statistical Practice
+  * http://www.jerrydallal.com/LHSP/LHSP.htm
