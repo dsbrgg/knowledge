@@ -9,3 +9,6 @@
 
 * Learn by building projects
   * https://github.com/tuvtran/project-based-learning
+
+* 8bitworkshop
+  * http://8bitworkshop.com/
