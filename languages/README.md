@@ -10,6 +10,7 @@
 
 * Rust
   * https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+  * https://deterministic.space/secret-life-of-cows.html
 
 * Shell
-  * https://www.datascienceatthecommandline.com/index.html
+  * https://www.datascienceatthecommandline.com/index.html 
