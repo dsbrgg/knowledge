@@ -4,3 +4,6 @@
 
 * Pentesting Bible
   * https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE
+
+* PE layout
+  * https://github.com/ulexec/WindowsMalwareSourceCode/blob/master/ReadingMaterial/Tasiopoulos.pdf 
