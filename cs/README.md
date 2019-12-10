@@ -30,3 +30,12 @@
 
 * Arcitura CS Patterns
   * https://patterns.arcitura.com/
+
+* Grookin Algorithms (Book)
+  * https://www.manning.com/books/grokking-algorithms
+
+* Data Structures and Algorithms Made Easy (Book)
+  * https://www.goodreads.com/book/show/31923984-data-structures-and-algorithms-made-easy
+
+* Common-sense Guide to Data Structures and Algorithmns
+  * https://pragprog.com/book/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition
