@@ -9,3 +9,6 @@
 
 * Win32 API
   * http://www.winprog.org/tutorial/
+
+* Think Like (a) Git
+  * http://think-like-a-git.net/
