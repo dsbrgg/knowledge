@@ -18,3 +18,6 @@
 
 * Creating C Compiler from Scratch
   * https://github.com/DoctorWkt/acwj
+
+* Learning Sed
+  * https://www.grymoire.com/Unix/Sed.html#uh-0
