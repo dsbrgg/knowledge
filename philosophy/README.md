@@ -6,3 +6,6 @@
 
 * Natural Thinker
   * https://www.naturalthinker.net/
+
+* Schopenhauer's Aesthetics
+  * https://plato.stanford.edu/entries/schopenhauer-aesthetics/
