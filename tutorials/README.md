@@ -21,3 +21,6 @@
 
 * Learning Sed
   * https://www.grymoire.com/Unix/Sed.html#uh-0
+
+* Wasm By Example
+  * https://wasmbyexample.dev/examples/hello-world/hello-world.rust.en-us.html
