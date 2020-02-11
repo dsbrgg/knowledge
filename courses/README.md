@@ -9,3 +9,6 @@
 
 * Compilers
   * https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
+
+* Database Learning
+  * https://github.com/pingcap/awesome-database-learning
