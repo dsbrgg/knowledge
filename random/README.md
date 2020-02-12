@@ -6,3 +6,6 @@
 
 * Game Programming Patterns
   * http://gameprogrammingpatterns.com/
+
+* DIY Projects
+  * https://github.com/cweagans/awesome-diy-software
