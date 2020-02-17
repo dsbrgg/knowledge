@@ -1,3 +1,6 @@
+* Teach Yourself CS
+  * https://teachyourselfcs.com/
+
 * Memory management
   * https://www.memorymanagement.org/mmref/begin.html
 
