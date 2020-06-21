@@ -11,6 +11,7 @@
 * Rust
   * https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
   * https://deterministic.space/secret-life-of-cows.html
+  * https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ
 
 * Shell
   * https://www.datascienceatthecommandline.com/index.html 
