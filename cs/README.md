@@ -45,3 +45,6 @@
 
 * 101 Challenges
   * https://hoanhan.co/101-challenges
+
+* Pratical Algorithms and Data Structures
+  * https://bradfieldcs.com/algos/
