@@ -48,3 +48,6 @@
 
 * Pratical Algorithms and Data Structures
   * https://bradfieldcs.com/algos/
+
+* The Power of Ten - Rules for Developing Safety Critical Code
+  * https://spinroot.com/gerard/pdf/P10.pdf

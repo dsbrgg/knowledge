@@ -9,3 +9,6 @@
 
 * DIY Projects
   * https://github.com/cweagans/awesome-diy-software
+
+* Genomes for Programmers
+  * https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/
