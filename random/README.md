@@ -12,3 +12,6 @@
 
 * Genomes for Programmers
   * https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/
+
+* Risk Engineering
+  * https://risk-engineering.org/
