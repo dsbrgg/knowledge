@@ -15,3 +15,6 @@
 
 * Risk Engineering
   * https://risk-engineering.org/
+
+* 95th percentile isn't good
+  * https://danluu.com/p95-skill/
