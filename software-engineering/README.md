@@ -20,3 +20,6 @@
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
+
+* Classic distributed system papers
+  * https://nvartolomei.com/dist-sys-classics/
