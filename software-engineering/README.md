@@ -18,6 +18,7 @@
   * https://dropbox.tech/
   * https://blog.kraken.com/
   * https://blog.ploeh.dk/
+  * https://dannorth.net/blog/interviewing-for-evidence/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
