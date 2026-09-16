@@ -17,6 +17,7 @@
   * https://blog.codinghorror.com/
   * https://dropbox.tech/
   * https://blog.kraken.com/
+  * https://blog.ploeh.dk/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
