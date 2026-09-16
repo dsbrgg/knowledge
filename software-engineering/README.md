@@ -25,3 +25,9 @@
 
 * Classic distributed system papers
   * https://nvartolomei.com/dist-sys-classics/
+
+* Efficient Rust Tokio
+  * https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
+
+* Async Rust
+  * https://ryhl.io/blog/async-what-is-blocking/
