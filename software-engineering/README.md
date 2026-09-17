@@ -19,6 +19,7 @@
   * https://blog.kraken.com/
   * https://blog.ploeh.dk/
   * https://dannorth.net/blog/interviewing-for-evidence/
+  * https://earendil.com/posts/measuring-code-sloppiness/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
