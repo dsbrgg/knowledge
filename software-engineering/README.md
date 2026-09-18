@@ -36,3 +36,6 @@
 
 * Papers
   * https://arxiv.org/pdf/1509.05393
+
+* Linux from Scracth
+  * https://www.linuxfromscratch.org/
