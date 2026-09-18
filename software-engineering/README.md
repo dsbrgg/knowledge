@@ -20,6 +20,7 @@
   * https://blog.ploeh.dk/
   * https://dannorth.net/blog/interviewing-for-evidence/
   * https://earendil.com/posts/measuring-code-sloppiness/
+  * https://blog.eggtech.io/posts/parallel-evm-simulation
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
