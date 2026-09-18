@@ -39,3 +39,6 @@
 
 * Linux from Scracth
   * https://www.linuxfromscratch.org/
+
+* Authorization Terminology
+  * https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/
