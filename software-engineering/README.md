@@ -21,6 +21,7 @@
   * https://dannorth.net/blog/interviewing-for-evidence/
   * https://earendil.com/posts/measuring-code-sloppiness/
   * https://blog.eggtech.io/posts/parallel-evm-simulation
+  * https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
