@@ -24,6 +24,7 @@
   * https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/
   * https://bookofrevenue.com/blog/6aa8d8b292d31a00012a8642/identify-slow-postgres-query
   * https://sujithjay.com/inventing-work
+  * https://databasearchitects.blogspot.com/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
