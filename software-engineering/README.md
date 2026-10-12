@@ -47,3 +47,6 @@
 
 * Authorization Terminology
   * https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/
+
+* Competitive programming playbook
+  * https://cses.fi/book/book.pdf
