@@ -50,3 +50,6 @@
 
 * Competitive programming playbook
   * https://cses.fi/book/book.pdf
+
+* Counterexamples in Type Systems
+  * https://counterexamples.org/intro.html
