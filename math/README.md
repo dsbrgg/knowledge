@@ -6,3 +6,6 @@
 
 * Handbook of Statistical Practice
   * http://www.jerrydallal.com/LHSP/LHSP.htm
+
+* Start Doing Graph Theory
+  * https://vertex.degree/beginning/examples
