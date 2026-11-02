@@ -27,6 +27,7 @@
   * https://databasearchitects.blogspot.com/
   * https://yossarian.net/til/post/rust-s-derive-often-implies-inline/
   * https://thomascountz.com/
+  * https://nolanlawson.com/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
