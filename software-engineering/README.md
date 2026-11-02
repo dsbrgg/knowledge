@@ -54,3 +54,6 @@
 
 * Counterexamples in Type Systems
   * https://counterexamples.org/intro.html
+
+* Rust performance book
+  * https://nnethercote.github.io/perf-book/introduction.html
