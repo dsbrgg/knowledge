@@ -29,6 +29,7 @@
   * https://thomascountz.com/
   * https://nolanlawson.com/
   * https://knlb.dev/essays/surrender
+  * https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
