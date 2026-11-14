@@ -32,6 +32,8 @@
   * https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
   * https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/
   * https://ryhl.io/blog/async-what-is-blocking/
+  * https://eblog.fly.dev/startingsystems1.html
+  * https://tautology.town/2026/06/01/card-networks.html
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
