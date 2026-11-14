@@ -18,3 +18,6 @@
 
 * 95th percentile isn't good
   * https://danluu.com/p95-skill/
+
+* Hyperliquid breakdown
+  * https://andreyobruchkov1996.substack.com/p/hyperliquid-beyond-generic-vms-the
