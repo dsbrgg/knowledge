@@ -30,6 +30,8 @@
   * https://nolanlawson.com/
   * https://knlb.dev/essays/surrender
   * https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html
+  * https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/
+  * https://ryhl.io/blog/async-what-is-blocking/
 
 * Design doc
   * https://refactoringenglish.com/excerpts/write-an-effective-design-doc/
